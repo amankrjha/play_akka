@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: com.shop#shopmessasges_2.12;1.1 :: 1.1 :: release :: Sun Jul 08 14:17:13 IST 2018[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sun Jul 08 14:17:13 IST 2018 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to C:\playakka\Code2\shopmessasges\target\scala-2.12\ivy-1.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (93ms)[0m

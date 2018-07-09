@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging C:\playakka\Code2\shopmessasges\target\scala-2.12\shopmessasges_2.12-1.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Actors\message\ProductDetailRequest.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\ProductDetailRequest.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\AllProductResponse.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\AllProductResponse.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\GauvaCacheble.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\GauvaCacheble.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\ProductDetailResponse.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\ProductDetailResponse.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\RedisCacheble.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\RedisCacheble.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\AllProductRequest.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\AllProductRequest.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\Response.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\Response.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\Request.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\Request.java[0m
+[0m[[0mdebug[0m] [0m	Actors\message\CachedRequest.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\CachedRequest.java[0m
+[0m[[0mdebug[0m] [0m	model\Product.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\model\Product.java[0m
+[0m[[0mdebug[0m] [0m	model\Employee.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\model\Employee.java[0m
+[0m[[0mdebug[0m] [0m	model\SKU.java[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\src\main\java\model\SKU.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

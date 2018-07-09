@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging C:\playakka\Code2\shopmessasges\target\scala-2.12\shopmessasges_2.12-1.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Actors\message\ProductDetailResponse.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\ProductDetailResponse.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message[0m
+[0m[[0mdebug[0m] [0m	model[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\model[0m
+[0m[[0mdebug[0m] [0m	Actors\message\ProductDetailRequest.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\ProductDetailRequest.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\AllProductRequest.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\AllProductRequest.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\Request.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\Request.class[0m
+[0m[[0mdebug[0m] [0m	model\SKU.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\model\SKU.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\RedisCacheble.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\RedisCacheble.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\GauvaCacheble.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\GauvaCacheble.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\Response.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\Response.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\CachedRequest.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\CachedRequest.class[0m
+[0m[[0mdebug[0m] [0m	Actors\message\AllProductResponse.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors\message\AllProductResponse.class[0m
+[0m[[0mdebug[0m] [0m	Actors[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\Actors[0m
+[0m[[0mdebug[0m] [0m	model\Employee.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\model\Employee.class[0m
+[0m[[0mdebug[0m] [0m	model\Product.class[0m
+[0m[[0mdebug[0m] [0m	  C:\playakka\Code2\shopmessasges\target\scala-2.12\classes\model\Product.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

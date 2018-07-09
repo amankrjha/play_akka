@@ -1,0 +1,52 @@
+[0m[[0minfo[0m] [0mMain Java API documentation to C:\playakka\Code2\shopmessasges\target\scala-2.12\api...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javadoc directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javadoc.Main not found with appropriate method signature; forking javadoc instead[0m
+[0m[[0mdebug[0m] [0mForking javadoc: javadoc @C:/Users/LENOVO/AppData/Local/Temp/sbt_c2870031/argfile[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\AllProductRequest.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\AllProductResponse.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\CachedRequest.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\GauvaCacheble.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\ProductDetailRequest.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\ProductDetailResponse.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\RedisCacheble.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\Request.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\Actors\message\Response.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\model\Employee.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\model\Product.java...[0m
+[0m[[0minfo[0m] [0mLoading source file C:\playakka\Code2\shopmessasges\src\main\java\model\SKU.java...[0m
+[0m[[0minfo[0m] [0mConstructing Javadoc information...[0m
+[0m[[0minfo[0m] [0mStandard Doclet version 1.8.0_161[0m
+[0m[[0minfo[0m] [0mBuilding tree for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\AllProductRequest.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\AllProductResponse.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\CachedRequest.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\GauvaCacheble.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\ProductDetailRequest.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\ProductDetailResponse.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\RedisCacheble.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\Request.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\Response.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\model\Employee.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\model\Product.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\model\SKU.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\overview-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\Actors\message\package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\model\package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\model\package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\model\package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\constant-values.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\serialized-form.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\overview-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\index-all.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\deprecated-list.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all classes...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\allclasses-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\allclasses-noframe.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\index.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\overview-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating C:\playakka\Code2\shopmessasges\target\scala-2.12\api\help-doc.html...[0m
+[0m[[0mdebug[0m] [0mjavadoc returned exit code: 0[0m
+[0m[[0minfo[0m] [0mMain Java API documentation successful.[0m
