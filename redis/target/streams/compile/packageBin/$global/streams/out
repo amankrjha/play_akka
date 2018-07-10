@@ -1,1 +1,15 @@
-[debug] Jar uptodate: C:\playakka\Code2\redis\target\scala-2.12\redis_2.12-1.0.jar
+[info] Packaging C:\playakka\Code2\redis\target\scala-2.12\redis_2.12-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	com\shop\Actors
+[debug] 	  C:\playakka\Code2\redis\target\scala-2.12\classes\com\shop\Actors
+[debug] 	com\shop\Actors\RedisMain.class
+[debug] 	  C:\playakka\Code2\redis\target\scala-2.12\classes\com\shop\Actors\RedisMain.class
+[debug] 	com\shop
+[debug] 	  C:\playakka\Code2\redis\target\scala-2.12\classes\com\shop
+[debug] 	application.conf
+[debug] 	  C:\playakka\Code2\redis\target\scala-2.12\classes\application.conf
+[debug] 	com\shop\Actors\ProductRedisDao.class
+[debug] 	  C:\playakka\Code2\redis\target\scala-2.12\classes\com\shop\Actors\ProductRedisDao.class
+[debug] 	com
+[debug] 	  C:\playakka\Code2\redis\target\scala-2.12\classes\com
+[info] Done packaging.

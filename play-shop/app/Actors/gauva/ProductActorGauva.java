@@ -1,7 +1,5 @@
 package Actors.gauva;
 
-import Actors.Redis.ProductRedisDao;
-import Actors.elastic.ProductESDao;
 import Actors.message.*;
 import akka.actor.AbstractActor;
 import akka.actor.ActorRef;
@@ -92,24 +90,5 @@ public class ProductActorGauva extends AbstractActor {
             context().sender().tell(response, self());
         }
     }
-     /*
-    private void getProductDetails(ProductDetailRequest pd) {
-        context().sender().tell("Here is details of products "+pd.getProductId(), self());
-    }
-
-
-        try {
-
-
-            products = (List<Product>)cache.get("all_employees", () -> {
-                System.out.println("Gauva : all products is not in gauva");
-                CompletionStage<Object> res = ask(redis, new ProductRedisDao.AllEmployee(), 9000);
-                System.out.println("Gauva : have called Redis for all products");
-                return res.toCompletableFuture().get();
-            });
-            context().sender().tell(products, self());
-        } catch (ExecutionException e) {
-            e.printStackTrace();
-        }*/
 
 }
